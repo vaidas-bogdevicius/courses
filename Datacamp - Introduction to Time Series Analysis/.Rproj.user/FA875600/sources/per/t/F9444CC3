@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546173965698.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2507182535",
+    "id" : "F9444CC3",
+    "lastKnownWriteTime" : 1546174099,
+    "last_content_update" : 1546174099686,
+    "path" : "~/Desktop/git courses/Datacamp - Introduction to Time Series Analysis/manipulating time series data in r with xts zoo.R",
+    "project_path" : "manipulating time series data in r with xts zoo.R",
+    "properties" : {
+        "cursorPosition" : "110,17",
+        "scrollLine" : "90"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
